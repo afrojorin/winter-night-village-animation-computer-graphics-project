@@ -130,37 +130,7 @@ winter-night-village-opengl/
 
 ---
 
-## 📸 Screenshots
 
-### Complete Winter Scene
-
-> *(Add complete_scene.png here)*
-
----
-
-### Snowfall Animation
-
-> *(Add snowfall_animation.png here)*
-
----
-
-### Cable Car Animation
-
-> *(Add cable_car_animation.png here)*
-
----
-
-### Interactive House Lighting
-
-> *(Add interactive_house_lighting.png here)*
-
----
-
-### Coordinate Plot
-
-> *(Add coordinate_plot.png here)*
-
----
 
 ## ▶️ How to Run
 
@@ -226,8 +196,6 @@ Possible extensions for the project include:
 Bachelor of Science in Computer Science and Engineering
 
 Notre Dame University Bangladesh
-
-GitHub: https://github.com/yourusername
 
 ---
 
